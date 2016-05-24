@@ -1,0 +1,25 @@
+
+        p {
+            color:green;
+        }
+
+ 
+        #oneTime {
+            color:red;
+            font-size: 2em;
+            font-style: italic;
+        }
+
+
+ 
+        .manyTimes {
+            color:blue;
+            font-size: 3em;
+            font-style: normal;
+        }
+
+        .boldText {
+            font-weight: bold;
+        }
+
+
